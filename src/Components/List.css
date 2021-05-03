@@ -1,0 +1,9 @@
+.list{
+    padding: 10px;
+
+}
+
+li{
+    display: inline-flex;
+    margin: 10px;
+}

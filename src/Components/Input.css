@@ -1,0 +1,34 @@
+.todoButton{
+
+    /* margin-left: 10px; */
+    height: 48px;
+    width: 90px;
+    border-radius: 0px;
+}
+
+.input{
+    
+    
+    /* margin: 5px; */
+}
+
+.todoInput{
+    margin: 10px;
+    border-radius: 5px;
+    width: 40%;
+    padding: 10px;
+    
+}
+
+li{
+    padding: 10px;
+}
+
+.cardItem{
+
+    /* width: 40%;
+    margin: auto;
+    height: 200px; */
+}
+
+
