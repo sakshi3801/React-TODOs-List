@@ -4,17 +4,14 @@ import './List.css'
 
 const List = (props)=>{
     
-    // const fun2 = ()=>{
 
-    //     console.log(props.id)
-    // }
 
     return(
         <>
         <div className='list'>
             
             <li>{props.text}</li>
-            <Button variant="danger" className='todoButton' type='button' onClick={()=>{
+            <Button id='deleteButton' type='button' onClick={()=>{
 
                 return props.onSelect(props.id)
             }}>

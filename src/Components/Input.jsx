@@ -53,7 +53,7 @@ const Input = ()=>{
 
     {/* <Button type='button' onClick={fun1} className='addButton'> */}
             {/* <FontAwesomeIcon icon={faPlusSquare}></FontAwesomeIcon> */}
-            <button id='addButton' type="button" className="btn btn-primary ">Primary
+            <button id='addButton' onClick={fun1} type="button" className="btn btn-primary ">
             Add
             </button>
     {/* </Button> */}

@@ -1,34 +1,49 @@
 #addButton {
     
     background-color: #4a3933;
+    height: 45px;
+    width: 70px;
+    border: 0px;
 }
-/* #796a3e */
-.todoButton{
 
-    /* margin-left: 10px; */
+#addButton:hover{
+    color: #fff;
+    background: url(../images/i12.webp);
+    transition-delay: 50ms;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* .todoButton{
+
+   margin: 0px;
     height: 48px;
     width: 90px;
-    border-radius: 0px;
-    background-color: #4a3933;
-}
+    border-radius: 2px;
+    background-color: red;
+    border: 0px;
+    
+} */
 
 
 .todoInput{
     margin: 10px;
+    border: 0px;
     border-radius: 5px;
     width: 70%;
     padding: 10px;
-    
+    font-family: 'Source Sans Pro', sans-serif;
+    background: url(../images/i16.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333333;
 }
 
 li{
     padding: 10px;
-}
-
-
-
-.insta{
-    color: #4a3933;
 }
 
 

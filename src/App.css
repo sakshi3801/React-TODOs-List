@@ -1,6 +1,13 @@
 
+h1{
+  padding-top: 20px;
+  padding-bottom: 15px;
+  color: #f4f3f3;
+  font-family: 'Itim', cursive;
+  font-weight: 1000;
+}
 .myAppContent{
-  /* background-color: #cbaf87; */
+
   background: url(./images/i5.webp);
   background-position: center;
   background-repeat: no-repeat;
@@ -9,7 +16,8 @@
   width: 40%;
   margin: auto;
   border-radius: 10px;
-  
+  margin-top: 20px;
+  padding-top: 10px;
 }
 
 .myApp{
@@ -23,11 +31,3 @@
   color: #fff;
 }
 
-
-
-/* .App{
-  background-color: blue;
-  min-height: 500px;
-  width: 400px;
-  margin: 40px auto;
-} */

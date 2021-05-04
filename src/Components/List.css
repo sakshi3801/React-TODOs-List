@@ -1,9 +1,37 @@
 .list{
-    padding: 10px;
-
+    
+    background: url(../images/i7.webp);
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+    margin: 7px;
+    border: 5px;
+    width: 80%;
+    position: relative;
+    left: 7%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 li{
     display: inline-flex;
     margin: 10px;
+}
+
+#deleteButton{
+
+    /* background-color: goldenrod; */
+    background: url(../images/i12.webp);
+    color: #fff;
+    border: 0px;
+    float: right;
+    position: relative;
+    top: 12px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 8px;
 }
