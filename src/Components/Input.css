@@ -1,21 +1,22 @@
+#addButton {
+    
+    background-color: #4a3933;
+}
+/* #796a3e */
 .todoButton{
 
     /* margin-left: 10px; */
     height: 48px;
     width: 90px;
     border-radius: 0px;
+    background-color: #4a3933;
 }
 
-.input{
-    
-    
-    /* margin: 5px; */
-}
 
 .todoInput{
     margin: 10px;
     border-radius: 5px;
-    width: 40%;
+    width: 70%;
     padding: 10px;
     
 }
@@ -24,11 +25,10 @@ li{
     padding: 10px;
 }
 
-.cardItem{
 
-    /* width: 40%;
-    margin: auto;
-    height: 200px; */
+
+.insta{
+    color: #4a3933;
 }
 
 

@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='myApp'>
     <h1>Sakshi's TODOs List</h1>
-    <div className='myApp'>
+    <div className='myAppContent'>
     <Input />
     </div>
     </div>

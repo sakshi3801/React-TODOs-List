@@ -1,18 +1,33 @@
 
-
-body{
-  background: url(./images/bg3.webp);
-  /* background-color: violet; */
+.myAppContent{
+  /* background-color: #cbaf87; */
+  background: url(./images/i5.webp);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 620px;
-  color: aqua;
-}
-
-
-
-.myApp{
-  color: #fff;
-  text-align: center;
+  height: 550px;
+  width: 40%;
+  margin: auto;
+  border-radius: 10px;
   
 }
+
+.myApp{
+
+  background: url(./images/bg9.webp);
+  height: 700px;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
+
+
+/* .App{
+  background-color: blue;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+} */

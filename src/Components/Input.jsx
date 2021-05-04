@@ -49,10 +49,14 @@ const Input = ()=>{
 
         <form>
     <input type='text' placeholder='Enter your item' className='todoInput' onChange={fun} value={item}></input>
-    <Button variant="success" className='todoButton' type='button' onClick={fun1} >
+    
+
+    {/* <Button type='button' onClick={fun1} className='addButton'> */}
             {/* <FontAwesomeIcon icon={faPlusSquare}></FontAwesomeIcon> */}
+            <button id='addButton' type="button" className="btn btn-primary ">Primary
             Add
-    </Button>
+            </button>
+    {/* </Button> */}
 
     
     <ol>
