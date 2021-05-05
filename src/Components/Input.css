@@ -16,18 +16,6 @@
 }
 
 
-/* .todoButton{
-
-   margin: 0px;
-    height: 48px;
-    width: 90px;
-    border-radius: 2px;
-    background-color: red;
-    border: 0px;
-    
-} */
-
-
 .todoInput{
     margin: 10px;
     border: 0px;
@@ -45,5 +33,17 @@
 li{
     padding: 10px;
 }
+@media screen and (max-width: 900px) {
 
+    #addButton{
+        height: 35px;
+        width: 50px;
+    }
+
+    #todoInput{
+
+        width: 40%;
+        height: 50px;
+    }
+}
 
