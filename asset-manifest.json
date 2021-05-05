@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sakshi3801.github.io/React-TODOs-List/static/css/main.498a6653.chunk.css",
+    "main.js": "/sakshi3801.github.io/React-TODOs-List/static/js/main.5124197a.chunk.js",
+    "main.js.map": "/sakshi3801.github.io/React-TODOs-List/static/js/main.5124197a.chunk.js.map",
+    "runtime-main.js": "/sakshi3801.github.io/React-TODOs-List/static/js/runtime-main.c02b31f7.js",
+    "runtime-main.js.map": "/sakshi3801.github.io/React-TODOs-List/static/js/runtime-main.c02b31f7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/sakshi3801.github.io/React-TODOs-List/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.86b0c20e.chunk.js": "/sakshi3801.github.io/React-TODOs-List/static/js/2.86b0c20e.chunk.js",
+    "static/js/2.86b0c20e.chunk.js.map": "/sakshi3801.github.io/React-TODOs-List/static/js/2.86b0c20e.chunk.js.map",
+    "index.html": "/sakshi3801.github.io/React-TODOs-List/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/sakshi3801.github.io/React-TODOs-List/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.498a6653.chunk.css.map": "/sakshi3801.github.io/React-TODOs-List/static/css/main.498a6653.chunk.css.map",
+    "static/js/2.86b0c20e.chunk.js.LICENSE.txt": "/sakshi3801.github.io/React-TODOs-List/static/js/2.86b0c20e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sakshi3801.github.io/React-TODOs-List/static/media/i5.f83f2c00.webp",
+    "static/media/List.css": "/sakshi3801.github.io/React-TODOs-List/static/media/i7.9cd30a0e.webp",
+    "static/media/Input.css": "/sakshi3801.github.io/React-TODOs-List/static/media/i16.80ec0a56.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c02b31f7.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.86b0c20e.chunk.js",
+    "static/css/main.498a6653.chunk.css",
+    "static/js/main.5124197a.chunk.js"
+  ]
+}
